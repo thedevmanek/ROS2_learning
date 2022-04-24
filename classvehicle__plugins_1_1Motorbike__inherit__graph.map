@@ -1,0 +1,4 @@
+<map id="vehicle_plugins::Motorbike" name="vehicle_plugins::Motorbike">
+<area shape="rect" id="node1" title=" " alt="" coords="13,80,188,107"/>
+<area shape="rect" id="node2" href="$classvehicle__base_1_1RegularVehicle.html" title=" " alt="" coords="5,5,196,32"/>
+</map>
